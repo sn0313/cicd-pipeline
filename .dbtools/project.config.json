@@ -6,7 +6,7 @@
     "version" : "25.4.1.0"
   },
   "schemas" : [ "SQL_1" ],
-  "lastReleaseVersion" : "",
+  "lastReleaseVersion" : "release/release-1.0",
   "export" : {
     "format" : {
       "enable" : true
